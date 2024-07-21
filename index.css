@@ -16,10 +16,10 @@ body {
 .container {
     width: 100%;
     height: auto;
-    max-width: 210px;
+    max-width: 250px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 8px;
-    padding: 15px 10px 25px 10px;
+    padding: 15px 13px 25px 13px;
 }
 
 img {
@@ -36,6 +36,8 @@ h4 {
     font-weight: 700;
     margin-bottom: 8px;
     text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 h6 {
@@ -44,6 +46,6 @@ h6 {
     font-weight: 400;
     text-align: center;
     color: hsl(216, 15%, 48%);
-    padding-left: 6.5px;
-    padding-right: 6.5px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
